@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>2AAA的网页</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="
+      background-color: #f1f1f1;
+      text-align:center;
+      padding:40px;
+      font-size:15px">
+      <p>这是拔作岛</p>
+      <img src='https://cdn.aqdstatic.com:966/age/20250158.jpg' alt="ZAC" width="200px"
+    </div>
+    <div>
+      <p>是一个动漫</p>
+      <p>---------</p>
+    </div>
+    <div style="
+      background-color: #f2f9";
+      font-size:40px;>
+      <p>---------</p>
+    </div>
+    <div>
+      <a href="https://www.agedm.vip/">动漫网站</a>
+    </div>
+  </body>
+</html>
